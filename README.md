@@ -34,4 +34,3 @@ Documentation for anyone looking to setup SSH keys (on Windows) to work with Git
 * https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 * https://docs.github.com/en/github/authenticating-to-github/working-with-ssh-key-passphrases
 * https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-* 
